@@ -33,18 +33,15 @@ header h2 {
 header p {
     font-family: 'Source Sans Pro';
     color: #5F5F5F;
-    font-size: 150%;
+    font-size: 200%;
     font-weight: 700;
     text-align: center;
     line-height: 1em;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.05em;
 }
 h2  {
 	background-color: #F8F8F8;
 }
-div .col-12 {
-    background-color: #CDE3EC;
-    }
 
 nav .container {
     border-bottom: 2px solid #CDE3EC;
